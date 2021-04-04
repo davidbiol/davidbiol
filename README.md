@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Davdi Gutierrez Duque, I'm from Colombia
+- 👋 Hi, I’m David Gutierrez Duque, I'm from Colombia
 - 👀 I’m interested in Statistical and Bioinformatic analysis.
 - 🌱 I’m currently interested in Estimation of Missing Values
 - 💞️ I’m looking to collaborate on projects related with Statistical Inference.
