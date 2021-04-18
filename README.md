@@ -2,7 +2,7 @@
 - 👀 I’m interested in Statistical and Bioinformatic analysis.
 - 🌱 I’m currently interested in Estimation of Missing Values
 - 💞️ I’m looking to collaborate on projects related with Statistical Inference.
-- 📫 How to reach me: david.1711821193@ucaldas.edu.co
+- 📫 How to reach me: david.1711821193@ucaldas.edu.co or davidgd2015@gmail.com
 
 <!---
 davidbiol/davidbiol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
