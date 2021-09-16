@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Gutierrez Duque, I'm from Colombia
 - 👀 I’m interested in Statistical and Bioinformatic analysis.
 - 🌱 I’m currently interested in Estimation of Missing Values.
-- 💞️ I’m looking to collaborate on projects related with Statistical Inference and/or R package development.
+- 💞️ I’m looking to collaborate on projects related with Statistical Inference, Biodiversity Analysis and/or R Package Development.
 - 📫 How to reach me: davidgd2015@gmail.com or david.1711821193@ucaldas.edu.co 
 
 <!---
