@@ -9,3 +9,5 @@ davidbiol/davidbiol is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+If you want to know more information about the projects I'm working on and about myself, check my [Curriculum vitae] (https://github.com/davidbiol/CurriculumVitae/blob/master/curriculumVitae/curriculumVitae.pdf) and [web page.] (davidbiol.github.io)
+
